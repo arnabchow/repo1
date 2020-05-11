@@ -1,6 +1,6 @@
 <?php
 
 print "Hello World !";
-echo "<body style='background-color:pink'>";
+echo "<body style='background-color:green'>";
 
 ?>
